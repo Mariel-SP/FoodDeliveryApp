@@ -1,0 +1,198 @@
+<resources>
+    <string name="app_name">FoodDeliveryApp</string>
+
+    <!--Restaurant listing screen strings -->
+    <string name="restaurant_listing_title">Delicious\nfood for you</string>
+    <string name="search_view_text">Search in All</string>
+    <string name="all_restaurants">All</string>
+
+    <!--Add restaurant screen strings -->
+    <string name="restaurant_title">Restaurant</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="restaurant_address">Address</string>
+    <string name="restaurant_phone">Phone</string>
+    <string name="restaurant_website">Website</string>
+    <string name="add_restaurant">Add Restaurant</string>
+    <string name="restaurant_open_hour">Open</string>
+    <string name="restaurant_close_hour">Close</string>
+    <string name="restaurant__min_delivery_time">Min</string>
+    <string name="restaurant_delivery_fee">Fee</string>
+    <string name="restaurant_city">City :</string>
+    <string name="select_payment_methods">Select Payment Methods</string>
+    <string name="restaurant_cuisine">Cuisine</string>
+    <string name="restaurant_open_hour_error">Please select open hour</string>
+    <string name="restaurant_close_hour_error">Please select close hour</string>
+    <string name="restaurant_payment_methods_error">Please select payment methods</string>
+
+    <!--Add food screen strings -->
+    <string name="food_title">Food</string>
+    <string name="food_name">Food name</string>
+    <string name="add_food">Add Food</string>
+    <string name="food_price">Price</string>
+    <string name="food_ingredients">Ingredients</string>
+    <string name="delivery_info">Delivery Info</string>
+    <string name="delivery_time">Delivery Time</string>
+    <string name="minimum_delivery_fee">Minimum Delivery Fee</string>
+    <string name="payment">Payment</string>
+    <string name="order_now_button">Order Now</string>
+    <string name="food_description">Description</string>
+    <string name="restaurant_delivery_info">Delivery Info</string>
+    <string name="ingredients_error">Please add ingredients</string>
+
+    <!--City strings -->
+    <string-array name="Cities">
+        <item>Adana</item>
+        <item>Adıyaman</item>
+        <item>Afyon</item>
+        <item>Ağrı</item>
+        <item>Amasya</item>
+        <item>Ankara</item>
+        <item>Antalya</item>
+        <item>Artvin</item>
+        <item>Aydın</item>
+        <item>Balıkesir</item>
+        <item>Bilecik</item>
+        <item>Bingöl</item>
+        <item>Bitlis</item>
+        <item>Bolu</item>
+        <item>Burdur</item>
+        <item>Bursa</item>
+        <item>Çanakkale</item>
+        <item>Çankırı</item>
+        <item>Çorum</item>
+        <item>Denizli</item>
+        <item>Diyarbakır</item>
+        <item>Edirne</item>
+        <item>Elazığ</item>
+        <item>Erzincan</item>
+        <item>Erzurum</item>
+        <item>Eskişehir</item>
+        <item>Gaziantep</item>
+        <item>Giresun</item>
+        <item>Gümüşhane</item>
+        <item>Hakkari</item>
+        <item>Hatay</item>
+        <item>Isparta</item>
+        <item>İçel</item>
+        <item>İstanbul</item>
+        <item>İzmir</item>
+        <item>Kars</item>
+        <item>Kastamonu</item>
+        <item>Kayseri</item>
+        <item>Kırklareli</item>
+        <item>Kırşehir</item>
+        <item>Kocaeli</item>
+        <item>Konya</item>
+        <item>Kütahya</item>
+        <item>Malatya</item>
+        <item>Manisa</item>
+        <item>Kahramanmaraş</item>
+        <item>Mardin</item>
+        <item>Muğla</item>
+        <item>Muş</item>
+        <item>Nevşehir</item>
+        <item>Niğde</item>
+        <item>Ordu</item>
+        <item>Rize</item>
+        <item>Sakarya</item>
+        <item>Samsun</item>
+        <item>Siirt</item>
+        <item>Sinop</item>
+        <item>Sivas</item>
+        <item>Tekirdağ</item>
+        <item>Tokat</item>
+        <item>Trabzon</item>
+        <item>Tunceli</item>
+        <item>Şanlıurfa</item>
+        <item>Uşak</item>
+        <item>Van</item>
+        <item>Yozgat</item>
+        <item>Zonguldak</item>
+        <item>Aksaray</item>
+        <item>Bayburt</item>
+        <item>Karaman</item>
+        <item>Kırıkkale</item>
+        <item>Batman</item>
+        <item>Şırnak</item>
+        <item>Bartın</item>
+        <item>Ardahan</item>
+        <item>Iğdır</item>
+        <item>Yalova</item>
+        <item>Karabük</item>
+        <item>Kilis</item>
+        <item>Osmaniye</item>
+        <item>Düzce</item>
+    </string-array>
+
+    <string-array name="RestaurantPaymentMethods">
+        <item>Online Credit/Bank Card</item>
+        <item>Credit Card</item>
+        <item>Cash</item>
+        <item>Ticket Restaurant</item>
+        <item>Sodexo Restaurant Pass</item>
+        <item>Multinet</item>
+        <item>SetCard</item>
+    </string-array>
+
+    <string-array name="Cuisines">
+        <item>Seafood</item>
+        <item>Burger</item>
+        <item>Doner</item>
+        <item>Worldwide</item>
+        <item>Homemade</item>
+        <item>Breakfast</item>
+        <item>Kebab</item>
+        <item>Meatball</item>
+        <item>Pasta - Salad</item>
+        <item>Bakery</item>
+        <item>Pizza</item>
+        <item>Dessert</item>
+        <item>Eastern Kitchen</item>
+    </string-array>
+
+    <!--Splash and login-signup screens strings -->
+    <string name="finish">Finish</string>
+    <string name="choose_your_order">CHOOSE YOUR ORDER</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="delivery_image">Delivery Image</string>
+    <string name="order_image">Order Image</string>
+    <string name="logo_image">Logo Image</string>
+    <string name="fast_delivery">FAST DELIVERY</string>
+    <string name="sign_up">Sign-up</string>
+    <string name="enjoy_your_meal">ENJOY YOUR MEAL</string>
+    <string name="enjoy_image">Enjoy Image</string>
+    <string name="response_not_found">Ups!… No results found</string>
+    <string name="name">Name</string>
+    <string name="log_out">Log Out</string>
+    <string name="total">Total:</string>
+    <string name="settings_title">Settings</string>
+    <string name="information_title">Information</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+    <string name="last_orders_title">Last Orders</string>
+    <string name="my_profile_title">My profile</string>
+    <string name="help">Help</string>
+    <string name="faq">Faq</string>
+    <string name="pending_reviews">Pending reviews</string>
+    <string name="personal_details">Personal details</string>
+    <string name="change">change</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="hint_update_name">Add your name</string>
+    <string name="hint_update_mail">Add your mail</string>
+    <string name="hint_update_phone">Add your phone</string>
+    <string name="hint_update_address">Add your address</string>
+    <string name="card">Card</string>
+    <string name="bank_naccount">Bank \naccount</string>
+    <string name="paypal">Paypal</string>
+    <string name="reorder_button">Repeat</string>
+    <string name="detail">Details</string>
+    <string name="choose_avatar">Choose Avatar</string>
+
+</resources>
